@@ -1,2 +1,2 @@
-# Image_Encryption_AES
-Image Encryption using AES and Fernet Algo.
+# Image_Encryption_ChaticMaps
+Image Encryption using Logistic Chaotic Map and Lorenz Chaotic Map fuction
